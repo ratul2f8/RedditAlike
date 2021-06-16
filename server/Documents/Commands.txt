@@ -1,0 +1,2 @@
+﻿****Scaffold DbContext****
+Scaffold-DbContext "Server=127.0.0.1;Port=5432;Database=testing;User Id=hr;Password=0000;CommandTimeOut=20;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Models

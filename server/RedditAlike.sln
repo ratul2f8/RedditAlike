@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditAlike", "RedditAlike.csproj", "{C88AE81D-4DCB-411C-8BB4-8951BFCF2943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88AE81D-4DCB-411C-8BB4-8951BFCF2943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88AE81D-4DCB-411C-8BB4-8951BFCF2943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88AE81D-4DCB-411C-8BB4-8951BFCF2943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88AE81D-4DCB-411C-8BB4-8951BFCF2943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D4F2DD-1276-46BC-9D3B-BD7EF56399BD}
+	EndGlobalSection
+EndGlobal
